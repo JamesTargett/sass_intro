@@ -1,0 +1,26 @@
+table {
+	thead {
+		font-family: Tahoma, sans-serif;
+		font-size: 1.6em;
+		border-top:	1px solid #000;
+	}
+	tbody {
+		border-bottom: 1px solid #000;
+		}
+} 
+
+.row {
+
+	.active {
+		border: 1px solid #000;
+	}
+}
+
+.jumbotron h1 {
+	text-align: center;
+}
+
+.lead {
+	font-size: 20px;
+	text-align: center;
+}
