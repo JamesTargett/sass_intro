@@ -1,25 +1,22 @@
-table {
-	thead {
-		font-family: Tahoma, sans-serif;
-		font-size: 1.2em;
-		border-top:	1px solid #000;
-	}
-
-	tbody {
-		border-bottom: 1px solid #000;
-		}
-} 
-
-td {
-	&.company {
-		width: 20%;
-	}
-	&.job {
-		width: 20%;
-	}
-	&.description {
-		width: 60%;
-	}
+h1 {
+	color: #523A78;
 }
 
- 
+li {
+	font-size: 16px;
+}
+
+li.active {
+	background-color: #523A78;
+}
+
+div.row {
+	margin: 0;
+ }
+
+
+div.jumbotron {
+	background-color: #523A78;
+	color: #fff;
+}
+
