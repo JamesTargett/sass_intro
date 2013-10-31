@@ -1,0 +1,13 @@
+table thead {
+  font-family: Tahoma, sans-serif;
+  font-size: 1.2em;
+  border-top: 1px solid #000; }
+table tbody {
+  border-bottom: 1px solid #000; }
+
+td.company {
+  width: 20%; }
+td.job {
+  width: 20%; }
+td.description {
+  width: 60%; }
