@@ -1,9 +1,10 @@
 h1 {
 	color: #523A78;
+	font-size: 30px;
 }
 
-li {
-	font-size: 16px;
+ol li {
+	font-size: 15px;
 }
 
 li.active {
@@ -20,3 +21,21 @@ div.jumbotron {
 	color: #fff;
 }
 
+.btn.btn-default:hover{
+	color: #fff;
+	background-color: #523A78;
+	border-color: #523A78;
+}
+
+
+
+.pagination.pagination-buttons {
+	li a {
+		color: #523A78;
+	}
+	li a:hover {
+		color: #fff;
+		background-color: #523A78;
+		border-color: #fff;
+	}
+}
