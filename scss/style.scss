@@ -7,13 +7,12 @@ ol li {
 	font-size: 15px;
 }
 
-div.row {
-	margin: 0;
- }
-
-div.jumbotron {
+.jumbotron {
 	background-color: #523A78;
-	color: #fff;
+	color: #fff;	
+	div.row {
+		margin: 0;
+	}
 }
 
 .btn.btn-default:hover {
